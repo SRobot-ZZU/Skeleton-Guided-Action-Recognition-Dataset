@@ -1,0 +1,14 @@
+1 answerphone
+2 doublewave
+3 handsup
+4 lie
+5 sit
+6 stand
+7 walk
+8 bend
+9 fall
+10 lean
+11 pushup
+12 smoke
+13 updown
+14 wave
